@@ -147,7 +147,7 @@ for i in range(num_merges):
     merges[best_pair] = new_token
     print(f"Updated Merges: {merges}")
 
-    print("-" * 30)
+    print("-" * 30) 
 # %% [markdown]
 # ### Step 4: Review Final Results
 #
